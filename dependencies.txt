@@ -1,0 +1,10 @@
+cv==1.0.0
+numpy==1.22.3
+opencv-python==4.5.5.64
+pyasn1==0.4.8
+pycrypto==2.6.1
+pycryptodome==3.14.1
+pycryptodomex==3.14.1
+rsa==4.8
+six==1.16.0
+texttable==1.6.4
